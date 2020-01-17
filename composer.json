@@ -1,0 +1,12 @@
+{
+    "name": "arsen/address-book",
+    "description": "Test lib for Address Book",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Arsen Abduraimov",
+            "email": "alibek.krona@gmail.com"
+        }
+    ],
+    "require": {}
+}
