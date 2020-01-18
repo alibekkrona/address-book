@@ -8,5 +8,10 @@
             "email": "alibek.krona@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "addressBook\\": "/"
+        }
+    }
 }
